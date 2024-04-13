@@ -1,2 +1,2 @@
-# CSC581_Hello_World
-Demo repository
+# Learnings and info
+Repo to store useful information regarding git and github.
